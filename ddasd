@@ -1,0 +1,42 @@
+[33mcommit fbd5697ff1d857266f5e533abb9d2e9ef049269a[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Merge: b0a564d e8dad2e
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Fri Mar 3 09:38:33 2023 -0500
+
+    Merge branch 'master' into login
+
+[33mcommit e8dad2e3c9f1f5bd08bed9afb6453cb246bf9686[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Fri Mar 3 09:36:22 2023 -0500
+
+    cambios git 2
+
+[33mcommit b0a564d06bc24982a8c588dee3440216502f53d5[m
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Fri Mar 3 09:32:05 2023 -0500
+
+    login
+
+[33mcommit ce31f98d2a179d14285ad337e5fd3abdd2456d65[m
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Thu Mar 2 17:31:34 2023 -0500
+
+    se añade el git ignore
+
+[33mcommit 91793a5ab45169e3dac4297faf3a3143dff970a6[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Thu Mar 2 17:20:27 2023 -0500
+
+    Actualizo el texto del archivo
+
+[33mcommit 54e0d207d47316bf4b79457dd5d5b9d51f06d680[m
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Thu Mar 2 17:13:26 2023 -0500
+
+    Este es mi segundo commit
+
+[33mcommit 9a4d5e43c6d09770e4e12fc2ebd582910114e1dc[m
+Author: Carlos <carlosayb@hotmail.com>
+Date:   Thu Mar 2 17:09:52 2023 -0500
+
+    Este es mi primer commit
